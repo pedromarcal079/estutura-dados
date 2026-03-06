@@ -3,8 +3,8 @@
 print(" ### Cadastramento de usuário ###")
 
 nome = input("\nInsira seu nome: ")
-idade = int(input("Insira sua idade: "))
+senha = int(input("Insira sua senha: "))
 
 print("\n## Sucesso!")
 print("## Nome :",nome)
-print("## Idade :",idade)
+print("## Idade :",senha)
